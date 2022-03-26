@@ -47,6 +47,7 @@ group :development, :test do
   gem "rspec-rails"
   gem "ruby_jard" # https://rubyjard.org/docs/
   gem "standard"
+  gem "packwerk"
 end
 
 group :development do
